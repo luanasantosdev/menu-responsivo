@@ -25,4 +25,12 @@ Grandes telas : acima de 1200px
     main{
         width: 768px;
     }
+
+    menu > ul{
+        background-color:gray;
+    
+    }
+    menu > ul > li>a{
+        border-radius: 10px;
+    }
 }
